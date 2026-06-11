@@ -27,7 +27,7 @@ A sleek, dark-themed Markdown Previewer built with React.js. Type markdown on th
 
 ## Installation
 # Clone the repository
-git clone https://github.com/your-username/markdown-previewer.git
+git clone https://github.com/samikhyadas04/markdown-previewer.git
 
 # Move into the project folder
 cd markdown-previewer
